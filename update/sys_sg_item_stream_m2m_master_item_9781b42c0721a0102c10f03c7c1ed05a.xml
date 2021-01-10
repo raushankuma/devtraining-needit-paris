@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_master_item">
+    <sys_sg_item_stream_m2m_master_item action="INSERT_OR_UPDATE">
+        <item_stream display_value="Past Needit Item Stream">1781b42c0721a0102c10f03c7c1ed040</item_stream>
+        <master_item display_value="Past Needit Master Item">db81b42c0721a0102c10f03c7c1ed051</master_item>
+        <sys_class_name>sys_sg_item_stream_m2m_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-03 09:48:24</sys_created_on>
+        <sys_id>9781b42c0721a0102c10f03c7c1ed05a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_master_item_9781b42c0721a0102c10f03c7c1ed05a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-03 09:48:24</sys_updated_on>
+    </sys_sg_item_stream_m2m_master_item>
+</record_update>
